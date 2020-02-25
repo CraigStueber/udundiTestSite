@@ -1,0 +1,141 @@
+#backgroundImage{
+	left: 0px;
+	top: 0px;
+	height: 1024px;
+	overflow-x:hidden;
+    overflow-y:hidden;
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+    border: none;
+    z-index: initial;
+}
+#column{
+	height: 1024px;
+	width: 413px;
+	background-color: #611818;
+	z-index: 3;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+}
+#facebook{
+	top: 832px;
+	width: 72px;
+	height: 67px;
+}
+#instagram{
+	top: 917px;
+}
+.socialIcons{
+	position: absolute;
+	left: 1342px;
+	z-index: 2;
+	width: 80px;
+	height: 80px;
+}
+#header1{
+	position: relative;
+	z-index: 3;
+	left: 154px;
+	top: 360px;
+	height: 298px;
+	width: 767.63px;
+	font-size: 224px;
+	letter-spacing: 5.6;
+	font-weight: 1;
+	line-height: 298px;
+	display: block;
+  
+}
+#moreDetails{
+	position: absolute;
+	z-index: 3;
+	left: 252.4px;
+	top: 735px;
+	font-size: 25px;
+	letter-spacing: .625;
+
+}
+#plus{
+	position: absolute;
+	left: 175px;
+	top: 750px;
+	width: 43px;
+	height: 43px;
+	z-index: 4;
+
+}
+#box{
+	height: 702px;
+	width: 580px;
+	background-color: #ffffff;
+	position: absolute;
+	z-index: 5;
+	top: 172px;
+	left: 140px;
+	display: none;
+	
+}
+#pbox{
+	font-size: 14px;
+	letter-spacing: .35;
+	line-height: 30px;
+	position: absolute;
+	margin-top: 215px;
+	margin-left: 69px;
+	margin-right: 69px;
+	color: #505050;
+	text-align: top;
+}
+#close{
+	position: absolute;
+	top: 21px;
+	right: 23px;
+	
+}
+#hbox{
+	position: absolute;
+	top: 70px;
+	font-size: 66px;
+	letter-spacing: 1.65;
+	font-weight: 1;
+}
+#rmButton{
+	position: absolute;
+	width: 235px;
+	height: 55px;
+	background: url('Rectangle.png') no-repeat;
+	background-size: fill;
+	font-size: 18px;
+	top: 568px;
+	border: none;
+}
+#border{
+	position: absolute;
+	top: 195px;
+	z-index: 6;
+}
+.boxMar{
+	margin-left: 66px;
+}
+.slideInRight{
+	animation: slideInRight 3s;
+}
+.slideInLeft{
+	animation: slideInLeft 2s;
+}
+.redFont{
+	color: #611818
+}
+.whiteFont{
+	color: #ffffff;
+}
+.fontP{
+	font-family: 'Arial';
+}
+.fontExplore{
+	font-family: 'Roboto';
+}
+
+
